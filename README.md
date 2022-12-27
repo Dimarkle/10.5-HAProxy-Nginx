@@ -23,5 +23,7 @@ Weighted Round Robin имеет дополнительное свойство �
 
 # Задание 5
 
+![Без имени](https://user-images.githubusercontent.com/118626944/209709788-9fee857a-ea41-4ace-bfc5-d2bd2f67e1f0.jpg)
 
 
+![э](https://user-images.githubusercontent.com/118626944/209709796-4dce0b80-3eb6-44e7-b7f3-48e319b30aa0.jpg)
